@@ -132,6 +132,8 @@ libavrdude_a_SOURCES = \
 	serbb.h \
 	serbb_posix.c \
 	serbb_win32.c \
+	bbb.h \
+	bbb.c \
 	ser_avrdoper.c \
 	ser_posix.c \
 	ser_win32.c \
