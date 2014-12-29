@@ -1011,9 +1011,9 @@ programmer
   id    = "bbb";
   desc  = "Beaglebone Black GPIO Programmer";
   type  = bbb;
-  reset = 15;
-  sck   = 51;
-  mosi  = 2;
+  reset = 30;
+  sck   = 50;
+  mosi  = 31;
   miso  = 60;
 ;
 
