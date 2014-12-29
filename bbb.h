@@ -32,7 +32,7 @@ extern "C" {
     ENTRY(30,  P9,  11), \
     ENTRY(60,  P9,  12), \
     ENTRY(31,  P9,  13), \
-    ENTRY(40,  P9,  14), \
+    ENTRY(50,  P9,  14), \
     ENTRY(48,  P9,  15), \
     ENTRY(51,  P9,  16), \
     ENTRY(4,   P9,  17), \
